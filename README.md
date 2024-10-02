@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Haruko</h1>
 <h3 align="center">If you spending time reading this, you are reading about aircraft mechanic!</h3>
 
+- 📫 How to reach me **Discord: harukonaomi**
+
+- ⚡ Fun fact **I made you spend time looking up all those icon down there!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
